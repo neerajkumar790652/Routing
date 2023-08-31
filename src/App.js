@@ -7,7 +7,6 @@ import Home from "./Components/Home";
 import Navbar from "./Components/Navbar";
 import Project from "./Components/Project";
 import Service from "./Components/Services";
-
 export default function App() {
   return (
     <>
